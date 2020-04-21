@@ -7,7 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@sencha/ext": "^7.0.0",
+    "@sencha/ext-modern": "^7.0.0",
+    "@sencha/ext-modern-theme-material": "^7.0.0",
+    "@sencha/ext-web-components": "^7.0.0",
+    "@sencha/ext-webpack-plugin": "^7.0.0",
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "axios": "^0.19.2",
     "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
     "vue-router": "^3.1.6"
   },
   "devDependencies": {
